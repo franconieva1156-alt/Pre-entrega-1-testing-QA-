@@ -30,7 +30,7 @@ Este proyecto documenta la planificación, diseño y ejecución de pruebas de so
 
 ## 📂 Enlaces y Entregables
 
-* 📊 **[Ver Matriz Completa de Casos de Prueba (Google Sheets)](PEGA_TU_ENLACE_DE_GOOGLE_SHEETS_AQUI)**
+* 📊 **[Ver Matriz Completa de Casos de Prueba (Google Sheets)]((https://docs.google.com/spreadsheets/d/1ZpyU6ueBenpxedj90OI2XxYcYWVs48j3/edit?usp=sharing&ouid=116756509398927554311&rtpof=true&sd=true))**
 * 📄 **[Ver Informe Técnico Final en PDF](./docs/Informe_QA_Franco_Nieva.pdf)**
 
 ---
