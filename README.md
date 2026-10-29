@@ -33,6 +33,8 @@ Este proyecto documenta la planificación, diseño y ejecución de pruebas de so
 * 📊 * 📊 **[Ver Matriz Completa de Casos de Prueba (Google Sheets)](https://docs.google.com/spreadsheets/d/1ZpyU6ueBenpxedj90OI2XxYcYWVs48j3/edit?usp=sharing&ouid=116756509398927554311&rtpof=true&sd=true)**
 * 📄 * 📄 **[Ver Informe Técnico Final en PDF](./Pre-entrega-pdf.pdf)**
 
+📌 Nota: Este repositorio se encuentra en desarrollo activo. Iré incorporando nuevos casos de prueba, automatización y mejoras en la documentación a medida que avance en mi formación.
+
 ---
 
 ## 👤 Autor
