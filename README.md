@@ -31,7 +31,7 @@ Este proyecto documenta la planificación, diseño y ejecución de pruebas de so
 ## 📂 Enlaces y Entregables
 
 * 📊 * 📊 **[Ver Matriz Completa de Casos de Prueba (Google Sheets)](https://docs.google.com/spreadsheets/d/1ZpyU6ueBenpxedj90OI2XxYcYWVs48j3/edit?usp=sharing&ouid=116756509398927554311&rtpof=true&sd=true)**
-* 📄 * 📄 **[Ver Informe Técnico Final en PDF](./Pre-entrega-pdf)**
+* 📄 * 📄 **[Ver Informe Técnico Final en PDF](./Pre-entrega-pdf.pdf)**
 
 ---
 
